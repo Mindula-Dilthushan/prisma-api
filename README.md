@@ -29,11 +29,6 @@ git clone https://github.com/Mindula-Dilthushan/prisma-api.git
 
 </div>
 
-<div align="center"> 
-
-#### Developed by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
-</div>
-
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
@@ -104,6 +99,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+<div align="center"> 
+
+#### Developed by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
+</div>
+
 
 
 
